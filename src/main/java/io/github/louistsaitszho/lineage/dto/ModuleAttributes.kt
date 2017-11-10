@@ -1,3 +1,3 @@
-package io.github.louistsaitszho.lineage
+package io.github.louistsaitszho.lineage.dto
 
 data class ModuleAttributes(val name : String)

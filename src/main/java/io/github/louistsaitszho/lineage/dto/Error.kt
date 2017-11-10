@@ -1,4 +1,4 @@
-package io.github.louistsaitszho.lineage
+package io.github.louistsaitszho.lineage.dto
 
 /**
  * DAO
